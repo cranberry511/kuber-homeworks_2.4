@@ -1,0 +1,6 @@
+image:
+  tag: 1.27.5
+configmap:
+  version: 2
+application:
+  release: 5.0
